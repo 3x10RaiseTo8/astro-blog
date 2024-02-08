@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
-export default defineConfig({});
+export default defineConfig({
+  site: 'https://blog-astro4.netlify.app/',
+});

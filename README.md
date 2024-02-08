@@ -1,3 +1,5 @@
+# Deployed: https://blog-astro4.netlify.app/
+
 # Astro Starter Kit: Minimal
 
 ```sh
